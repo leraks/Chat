@@ -31,4 +31,6 @@ python manage.py runserver <br>
 
 # App Preview :
 ![image](https://user-images.githubusercontent.com/67760549/173016048-3f4d3e4c-7c2d-4575-9f89-b6d58f3ed573.png)
+![image](https://user-images.githubusercontent.com/67760549/173018296-d8abed89-9200-4db0-bdaf-3d024671c611.png)
+
 
