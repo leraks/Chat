@@ -30,4 +30,5 @@ python manage.py runserver <br>
 ⚠ Then, the development server will be started at http://127.0.0.1:8000/
 
 # App Preview :
+![image](https://user-images.githubusercontent.com/67760549/173016048-3f4d3e4c-7c2d-4575-9f89-b6d58f3ed573.png)
 
