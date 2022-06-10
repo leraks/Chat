@@ -4,6 +4,11 @@ Cloning the repository
 
 git clone https://github.com/leraks/Chat.git
 
+--> Move into the directory where we have the project files :
+
+cd nameApp
+
+
 --> Create a virtual environment :
 
 # Let's install virtualenv first
